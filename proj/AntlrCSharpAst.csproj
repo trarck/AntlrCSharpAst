@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ast\AstNode.cs" />
+    <Compile Include="Ast\AstTree.cs" />
     <Compile Include="Parser\CSharpLexer.cs" />
     <Compile Include="Parser\CSharpParser.cs" />
     <Compile Include="Parser\CSharpParserBaseListener.cs" />

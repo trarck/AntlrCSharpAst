@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCSharpAst", "TestCSharpAst.csproj", "{B2C322C9-5D20-4AFB-B8A5-5E682FD4BA68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntlrCSharpAst", "AntlrCSharpAst.csproj", "{B2C322C9-5D20-4AFB-B8A5-5E682FD4BA68}"
 	ProjectSection(ProjectDependencies) = postProject
 		{6B51007D-79F4-4BBC-9CEA-31E9C3337133} = {6B51007D-79F4-4BBC-9CEA-31E9C3337133}
 	EndProjectSection
